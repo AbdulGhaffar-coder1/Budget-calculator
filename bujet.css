@@ -1,0 +1,41 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: lavender;
+}
+.main {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aquamarine;
+    max-width: 500px;
+    font-size: large;
+    text-align: center;
+    margin-top: 100px;
+    padding: 20px;
+    border-radius: 10px;
+}
+label, input {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+input {
+    height: 30px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+h2 {
+    text-align: center;
+    color: red;
+}
+p {
+    padding-bottom: 10px;
+}
+button {
+    padding: 10px;
+    background-color: rgb(219, 130, 130);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
